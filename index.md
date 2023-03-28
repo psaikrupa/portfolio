@@ -10,5 +10,5 @@ In this project, we will explore various ML models and algorithms to develop a f
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/psaikrupa/fraud_detection)
 
-<center><img src="https://github.com/psaikrupa/portfolio/blob/master/assets/img/Fraud.jpg"/></center>
+<center><img src="assets/img/Fraud.jpg"/></center>
 
